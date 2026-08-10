@@ -1,0 +1,15 @@
+com\example\loginapp\entity\User.class
+com\example\loginapp\config\SecurityConfig.class
+com\example\loginapp\entity\User$UserBuilder.class
+com\example\loginapp\security\CustomUserDetailsService.class
+com\example\loginapp\dto\RegisterRequest.class
+com\example\loginapp\security\JwtAuthFilter.class
+com\example\loginapp\service\AuthService.class
+com\example\loginapp\LoginAppApplication.class
+com\example\loginapp\controller\AuthController.class
+com\example\loginapp\dto\AuthResponse.class
+com\example\loginapp\dto\LoginRequest.class
+com\example\loginapp\repository\UserRepository.class
+com\example\loginapp\controller\UserController.class
+com\example\loginapp\security\JwtUtil.class
+com\example\loginapp\entity\Role.class

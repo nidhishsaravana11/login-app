@@ -1,0 +1,14 @@
+C:\Users\Nidhish\Downloads\login-app\backend\src\main\java\com\example\loginapp\config\SecurityConfig.java
+C:\Users\Nidhish\Downloads\login-app\backend\src\main\java\com\example\loginapp\controller\AuthController.java
+C:\Users\Nidhish\Downloads\login-app\backend\src\main\java\com\example\loginapp\controller\UserController.java
+C:\Users\Nidhish\Downloads\login-app\backend\src\main\java\com\example\loginapp\dto\AuthResponse.java
+C:\Users\Nidhish\Downloads\login-app\backend\src\main\java\com\example\loginapp\dto\LoginRequest.java
+C:\Users\Nidhish\Downloads\login-app\backend\src\main\java\com\example\loginapp\dto\RegisterRequest.java
+C:\Users\Nidhish\Downloads\login-app\backend\src\main\java\com\example\loginapp\entity\Role.java
+C:\Users\Nidhish\Downloads\login-app\backend\src\main\java\com\example\loginapp\entity\User.java
+C:\Users\Nidhish\Downloads\login-app\backend\src\main\java\com\example\loginapp\LoginAppApplication.java
+C:\Users\Nidhish\Downloads\login-app\backend\src\main\java\com\example\loginapp\repository\UserRepository.java
+C:\Users\Nidhish\Downloads\login-app\backend\src\main\java\com\example\loginapp\security\CustomUserDetailsService.java
+C:\Users\Nidhish\Downloads\login-app\backend\src\main\java\com\example\loginapp\security\JwtAuthFilter.java
+C:\Users\Nidhish\Downloads\login-app\backend\src\main\java\com\example\loginapp\security\JwtUtil.java
+C:\Users\Nidhish\Downloads\login-app\backend\src\main\java\com\example\loginapp\service\AuthService.java
